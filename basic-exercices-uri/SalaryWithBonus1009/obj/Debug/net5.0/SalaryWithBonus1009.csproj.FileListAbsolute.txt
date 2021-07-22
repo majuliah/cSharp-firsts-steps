@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\bin\Debug\net5.0\SalaryWithBonus1009.exe
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\bin\Debug\net5.0\SalaryWithBonus1009.deps.json
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\bin\Debug\net5.0\SalaryWithBonus1009.runtimeconfig.json
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\bin\Debug\net5.0\SalaryWithBonus1009.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\bin\Debug\net5.0\SalaryWithBonus1009.dll
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\bin\Debug\net5.0\ref\SalaryWithBonus1009.dll
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\bin\Debug\net5.0\SalaryWithBonus1009.pdb
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.dll
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\ref\SalaryWithBonus1009.dll
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.pdb
+C:\Users\ladyv\source\repos\SalaryWithBonus1009\obj\Debug\net5.0\SalaryWithBonus1009.genruntimeconfig.cache

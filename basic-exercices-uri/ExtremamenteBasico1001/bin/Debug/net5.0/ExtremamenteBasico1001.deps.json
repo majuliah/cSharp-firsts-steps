@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExtremamenteBasico1001/1.0.0": {
+        "runtime": {
+          "ExtremamenteBasico1001.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtremamenteBasico1001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

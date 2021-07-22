@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\FirstStep\bin\Debug\net5.0\FirstStep.exe
+C:\Users\ladyv\source\repos\FirstStep\bin\Debug\net5.0\FirstStep.deps.json
+C:\Users\ladyv\source\repos\FirstStep\bin\Debug\net5.0\FirstStep.runtimeconfig.json
+C:\Users\ladyv\source\repos\FirstStep\bin\Debug\net5.0\FirstStep.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\FirstStep\bin\Debug\net5.0\FirstStep.dll
+C:\Users\ladyv\source\repos\FirstStep\bin\Debug\net5.0\ref\FirstStep.dll
+C:\Users\ladyv\source\repos\FirstStep\bin\Debug\net5.0\FirstStep.pdb
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.dll
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\ref\FirstStep.dll
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.pdb
+C:\Users\ladyv\source\repos\FirstStep\obj\Debug\net5.0\FirstStep.genruntimeconfig.cache

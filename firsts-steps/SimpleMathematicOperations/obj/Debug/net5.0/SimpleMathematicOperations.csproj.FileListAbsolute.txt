@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\bin\Debug\net5.0\SimpleMathematicOperations.exe
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\bin\Debug\net5.0\SimpleMathematicOperations.deps.json
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\bin\Debug\net5.0\SimpleMathematicOperations.runtimeconfig.json
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\bin\Debug\net5.0\SimpleMathematicOperations.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\bin\Debug\net5.0\SimpleMathematicOperations.dll
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\bin\Debug\net5.0\ref\SimpleMathematicOperations.dll
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\bin\Debug\net5.0\SimpleMathematicOperations.pdb
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.dll
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\ref\SimpleMathematicOperations.dll
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.pdb
+C:\Users\ladyv\Documents\cursoCsharp\begining\firsts-steps\SimpleMathematicOperations\obj\Debug\net5.0\SimpleMathematicOperations.genruntimeconfig.cache

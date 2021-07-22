@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\bin\Debug\net5.0\Difference1007.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\bin\Debug\net5.0\Difference1007.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\bin\Debug\net5.0\Difference1007.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\bin\Debug\net5.0\Difference1007.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\bin\Debug\net5.0\Difference1007.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\bin\Debug\net5.0\ref\Difference1007.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\bin\Debug\net5.0\Difference1007.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\ref\Difference1007.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Difference1007\obj\Debug\net5.0\Difference1007.genruntimeconfig.cache

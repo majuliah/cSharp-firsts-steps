@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\SimpleCalculation1010\bin\Debug\net5.0\SimpleCalculation1010.exe
+C:\Users\ladyv\source\repos\SimpleCalculation1010\bin\Debug\net5.0\SimpleCalculation1010.deps.json
+C:\Users\ladyv\source\repos\SimpleCalculation1010\bin\Debug\net5.0\SimpleCalculation1010.runtimeconfig.json
+C:\Users\ladyv\source\repos\SimpleCalculation1010\bin\Debug\net5.0\SimpleCalculation1010.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\SimpleCalculation1010\bin\Debug\net5.0\SimpleCalculation1010.dll
+C:\Users\ladyv\source\repos\SimpleCalculation1010\bin\Debug\net5.0\ref\SimpleCalculation1010.dll
+C:\Users\ladyv\source\repos\SimpleCalculation1010\bin\Debug\net5.0\SimpleCalculation1010.pdb
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.dll
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\ref\SimpleCalculation1010.dll
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.pdb
+C:\Users\ladyv\source\repos\SimpleCalculation1010\obj\Debug\net5.0\SimpleCalculation1010.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\bin\Debug\net5.0\ExtremamenteBasico1001.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\bin\Debug\net5.0\ExtremamenteBasico1001.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\bin\Debug\net5.0\ExtremamenteBasico1001.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\bin\Debug\net5.0\ExtremamenteBasico1001.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\bin\Debug\net5.0\ExtremamenteBasico1001.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\bin\Debug\net5.0\ref\ExtremamenteBasico1001.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\bin\Debug\net5.0\ExtremamenteBasico1001.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ref\ExtremamenteBasico1001.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\ExtremamenteBasico1001\obj\Debug\net5.0\ExtremamenteBasico1001.genruntimeconfig.cache

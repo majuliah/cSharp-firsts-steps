@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\bin\Debug\net5.0\Average02-1006.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\bin\Debug\net5.0\Average02-1006.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\bin\Debug\net5.0\Average02-1006.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\bin\Debug\net5.0\Average02-1006.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\bin\Debug\net5.0\Average02-1006.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\bin\Debug\net5.0\ref\Average02-1006.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\bin\Debug\net5.0\Average02-1006.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\Average02-1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\Average02-1006.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\Average02-1006.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\Average02-1006.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\Average02-1006.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\ref\Average02-1006.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\Average02-1006.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\Average02-1006\obj\Debug\net5.0\Average02-1006.genruntimeconfig.cache

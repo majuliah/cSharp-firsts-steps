@@ -1,0 +1,15 @@
+C:\Users\ladyv\source\repos\Consume1014\bin\Debug\net5.0\Consume1014.exe
+C:\Users\ladyv\source\repos\Consume1014\bin\Debug\net5.0\Consume1014.deps.json
+C:\Users\ladyv\source\repos\Consume1014\bin\Debug\net5.0\Consume1014.runtimeconfig.json
+C:\Users\ladyv\source\repos\Consume1014\bin\Debug\net5.0\Consume1014.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\Consume1014\bin\Debug\net5.0\Consume1014.dll
+C:\Users\ladyv\source\repos\Consume1014\bin\Debug\net5.0\ref\Consume1014.dll
+C:\Users\ladyv\source\repos\Consume1014\bin\Debug\net5.0\Consume1014.pdb
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\Consume1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\Consume1014.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\Consume1014.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\Consume1014.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\Consume1014.dll
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\ref\Consume1014.dll
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\Consume1014.pdb
+C:\Users\ladyv\source\repos\Consume1014\obj\Debug\net5.0\Consume1014.genruntimeconfig.cache

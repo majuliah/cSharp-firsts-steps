@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SalaryWithBonus1009/1.0.0": {
+        "runtime": {
+          "SalaryWithBonus1009.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalaryWithBonus1009/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

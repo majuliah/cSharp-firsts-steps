@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\bin\Debug\net5.0\CircleArea1002.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\bin\Debug\net5.0\CircleArea1002.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\bin\Debug\net5.0\CircleArea1002.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\bin\Debug\net5.0\CircleArea1002.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\bin\Debug\net5.0\CircleArea1002.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\bin\Debug\net5.0\ref\CircleArea1002.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\bin\Debug\net5.0\CircleArea1002.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\ref\CircleArea1002.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\CircleArea1002\obj\Debug\net5.0\CircleArea1002.genruntimeconfig.cache

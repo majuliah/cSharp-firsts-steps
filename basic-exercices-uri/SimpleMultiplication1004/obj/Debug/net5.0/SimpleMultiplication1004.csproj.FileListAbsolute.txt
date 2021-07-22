@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\bin\Debug\net5.0\SimpleMultiplication1004.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\bin\Debug\net5.0\SimpleMultiplication1004.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\bin\Debug\net5.0\SimpleMultiplication1004.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\bin\Debug\net5.0\SimpleMultiplication1004.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\bin\Debug\net5.0\SimpleMultiplication1004.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\bin\Debug\net5.0\ref\SimpleMultiplication1004.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\bin\Debug\net5.0\SimpleMultiplication1004.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\SimpleMultiplication1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\SimpleMultiplication1004.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\SimpleMultiplication1004.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\SimpleMultiplication1004.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\SimpleMultiplication1004.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\ref\SimpleMultiplication1004.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\SimpleMultiplication1004.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\start\uri-exercices\SimpleMultiplication1004\obj\Debug\net5.0\SimpleMultiplication1004.genruntimeconfig.cache

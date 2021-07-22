@@ -1,0 +1,15 @@
+C:\Users\ladyv\source\repos\Salary1008\bin\Debug\net5.0\Salary1008.exe
+C:\Users\ladyv\source\repos\Salary1008\bin\Debug\net5.0\Salary1008.deps.json
+C:\Users\ladyv\source\repos\Salary1008\bin\Debug\net5.0\Salary1008.runtimeconfig.json
+C:\Users\ladyv\source\repos\Salary1008\bin\Debug\net5.0\Salary1008.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\Salary1008\bin\Debug\net5.0\Salary1008.dll
+C:\Users\ladyv\source\repos\Salary1008\bin\Debug\net5.0\ref\Salary1008.dll
+C:\Users\ladyv\source\repos\Salary1008\bin\Debug\net5.0\Salary1008.pdb
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\Salary1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\Salary1008.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\Salary1008.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\Salary1008.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\Salary1008.dll
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\ref\Salary1008.dll
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\Salary1008.pdb
+C:\Users\ladyv\source\repos\Salary1008\obj\Debug\net5.0\Salary1008.genruntimeconfig.cache

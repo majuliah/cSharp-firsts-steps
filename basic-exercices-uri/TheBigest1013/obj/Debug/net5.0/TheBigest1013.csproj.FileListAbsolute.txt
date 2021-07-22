@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\TheBigest1013\bin\Debug\net5.0\TheBigest1013.exe
+C:\Users\ladyv\source\repos\TheBigest1013\bin\Debug\net5.0\TheBigest1013.deps.json
+C:\Users\ladyv\source\repos\TheBigest1013\bin\Debug\net5.0\TheBigest1013.runtimeconfig.json
+C:\Users\ladyv\source\repos\TheBigest1013\bin\Debug\net5.0\TheBigest1013.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\TheBigest1013\bin\Debug\net5.0\TheBigest1013.dll
+C:\Users\ladyv\source\repos\TheBigest1013\bin\Debug\net5.0\ref\TheBigest1013.dll
+C:\Users\ladyv\source\repos\TheBigest1013\bin\Debug\net5.0\TheBigest1013.pdb
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.dll
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\ref\TheBigest1013.dll
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.pdb
+C:\Users\ladyv\source\repos\TheBigest1013\obj\Debug\net5.0\TheBigest1013.genruntimeconfig.cache
