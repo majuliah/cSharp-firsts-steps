@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\bin\Debug\net5.0\FahrenheitParaCelcius.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\bin\Debug\net5.0\FahrenheitParaCelcius.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\bin\Debug\net5.0\FahrenheitParaCelcius.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\bin\Debug\net5.0\FahrenheitParaCelcius.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\bin\Debug\net5.0\FahrenheitParaCelcius.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\bin\Debug\net5.0\ref\FahrenheitParaCelcius.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\bin\Debug\net5.0\FahrenheitParaCelcius.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\FahrenheitParaCelcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\FahrenheitParaCelcius.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\FahrenheitParaCelcius.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\FahrenheitParaCelcius.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\FahrenheitParaCelcius.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\ref\FahrenheitParaCelcius.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\FahrenheitParaCelcius.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\FahrenheitParaCelcius\obj\Debug\net5.0\FahrenheitParaCelcius.genruntimeconfig.cache

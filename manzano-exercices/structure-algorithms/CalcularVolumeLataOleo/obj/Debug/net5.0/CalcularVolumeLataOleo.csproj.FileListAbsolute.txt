@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\bin\Debug\net5.0\CalcularVolumeLataOleo.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\bin\Debug\net5.0\CalcularVolumeLataOleo.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\bin\Debug\net5.0\CalcularVolumeLataOleo.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\bin\Debug\net5.0\CalcularVolumeLataOleo.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\bin\Debug\net5.0\CalcularVolumeLataOleo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\bin\Debug\net5.0\ref\CalcularVolumeLataOleo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\bin\Debug\net5.0\CalcularVolumeLataOleo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\CalcularVolumeLataOleo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\CalcularVolumeLataOleo.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\CalcularVolumeLataOleo.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\CalcularVolumeLataOleo.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\CalcularVolumeLataOleo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\ref\CalcularVolumeLataOleo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\CalcularVolumeLataOleo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalcularVolumeLataOleo\obj\Debug\net5.0\CalcularVolumeLataOleo.genruntimeconfig.cache

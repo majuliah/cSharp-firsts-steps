@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\bin\Debug\net5.0\ConverteGrausEmFahrenheit.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\bin\Debug\net5.0\ConverteGrausEmFahrenheit.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\bin\Debug\net5.0\ConverteGrausEmFahrenheit.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\bin\Debug\net5.0\ConverteGrausEmFahrenheit.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\bin\Debug\net5.0\ConverteGrausEmFahrenheit.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\bin\Debug\net5.0\ref\ConverteGrausEmFahrenheit.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\bin\Debug\net5.0\ConverteGrausEmFahrenheit.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ref\ConverteGrausEmFahrenheit.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteGrausEmFahrenheit\obj\Debug\net5.0\ConverteGrausEmFahrenheit.genruntimeconfig.cache

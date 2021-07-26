@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\bin\Debug\net5.0\PrestacaoBemAtrasado.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\bin\Debug\net5.0\PrestacaoBemAtrasado.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\bin\Debug\net5.0\PrestacaoBemAtrasado.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\bin\Debug\net5.0\PrestacaoBemAtrasado.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\bin\Debug\net5.0\PrestacaoBemAtrasado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\bin\Debug\net5.0\ref\PrestacaoBemAtrasado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\bin\Debug\net5.0\PrestacaoBemAtrasado.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\ref\PrestacaoBemAtrasado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\PrestacaoBemAtrasado\obj\Debug\net5.0\PrestacaoBemAtrasado.genruntimeconfig.cache

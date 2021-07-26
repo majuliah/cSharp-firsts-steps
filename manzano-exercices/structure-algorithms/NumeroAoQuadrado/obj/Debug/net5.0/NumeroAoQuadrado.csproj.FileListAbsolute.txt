@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\bin\Debug\net5.0\NumeroAoQuadrado.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\bin\Debug\net5.0\NumeroAoQuadrado.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\bin\Debug\net5.0\NumeroAoQuadrado.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\bin\Debug\net5.0\NumeroAoQuadrado.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\bin\Debug\net5.0\NumeroAoQuadrado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\bin\Debug\net5.0\ref\NumeroAoQuadrado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\bin\Debug\net5.0\NumeroAoQuadrado.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\NumeroAoQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\NumeroAoQuadrado.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\NumeroAoQuadrado.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\NumeroAoQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\NumeroAoQuadrado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\ref\NumeroAoQuadrado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\NumeroAoQuadrado.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\NumeroAoQuadrado\obj\Debug\net5.0\NumeroAoQuadrado.genruntimeconfig.cache

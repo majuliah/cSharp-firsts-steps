@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\bin\Debug\net5.0\QuadradoDaDiferenca.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\bin\Debug\net5.0\QuadradoDaDiferenca.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\bin\Debug\net5.0\QuadradoDaDiferenca.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\bin\Debug\net5.0\QuadradoDaDiferenca.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\bin\Debug\net5.0\QuadradoDaDiferenca.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\bin\Debug\net5.0\ref\QuadradoDaDiferenca.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\bin\Debug\net5.0\QuadradoDaDiferenca.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\QuadradoDaDiferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\QuadradoDaDiferenca.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\QuadradoDaDiferenca.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\QuadradoDaDiferenca.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\QuadradoDaDiferenca.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\ref\QuadradoDaDiferenca.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\QuadradoDaDiferenca.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDiferenca\obj\Debug\net5.0\QuadradoDaDiferenca.genruntimeconfig.cache

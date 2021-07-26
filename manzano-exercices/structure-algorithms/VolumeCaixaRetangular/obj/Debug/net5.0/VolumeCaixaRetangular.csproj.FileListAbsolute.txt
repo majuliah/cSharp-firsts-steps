@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\bin\Debug\net5.0\VolumeCaixaRetangular.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\bin\Debug\net5.0\VolumeCaixaRetangular.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\bin\Debug\net5.0\VolumeCaixaRetangular.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\bin\Debug\net5.0\VolumeCaixaRetangular.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\bin\Debug\net5.0\VolumeCaixaRetangular.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\bin\Debug\net5.0\ref\VolumeCaixaRetangular.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\bin\Debug\net5.0\VolumeCaixaRetangular.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\VolumeCaixaRetangular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\VolumeCaixaRetangular.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\VolumeCaixaRetangular.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\VolumeCaixaRetangular.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\VolumeCaixaRetangular.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\ref\VolumeCaixaRetangular.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\VolumeCaixaRetangular.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\VolumeCaixaRetangular\obj\Debug\net5.0\VolumeCaixaRetangular.genruntimeconfig.cache

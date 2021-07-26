@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\bin\Debug\net5.0\TrocarValoresVariaveis.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\bin\Debug\net5.0\TrocarValoresVariaveis.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\bin\Debug\net5.0\TrocarValoresVariaveis.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\bin\Debug\net5.0\TrocarValoresVariaveis.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\bin\Debug\net5.0\TrocarValoresVariaveis.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\bin\Debug\net5.0\ref\TrocarValoresVariaveis.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\bin\Debug\net5.0\TrocarValoresVariaveis.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\TrocarValoresVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\TrocarValoresVariaveis.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\TrocarValoresVariaveis.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\TrocarValoresVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\TrocarValoresVariaveis.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\ref\TrocarValoresVariaveis.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\TrocarValoresVariaveis.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TrocarValoresVariaveis\obj\Debug\net5.0\TrocarValoresVariaveis.genruntimeconfig.cache
