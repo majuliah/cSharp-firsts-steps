@@ -1,0 +1,15 @@
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\bin\Debug\net5.0\ReajustaSalarioMensal.exe
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\bin\Debug\net5.0\ReajustaSalarioMensal.deps.json
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\bin\Debug\net5.0\ReajustaSalarioMensal.runtimeconfig.json
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\bin\Debug\net5.0\ReajustaSalarioMensal.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\bin\Debug\net5.0\ReajustaSalarioMensal.dll
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\bin\Debug\net5.0\ref\ReajustaSalarioMensal.dll
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\bin\Debug\net5.0\ReajustaSalarioMensal.pdb
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ReajustaSalarioMensal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ReajustaSalarioMensal.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ReajustaSalarioMensal.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ReajustaSalarioMensal.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ReajustaSalarioMensal.dll
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ref\ReajustaSalarioMensal.dll
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ReajustaSalarioMensal.pdb
+C:\Users\ladyv\source\repos\ReajustaSalarioMensal\obj\Debug\net5.0\ReajustaSalarioMensal.genruntimeconfig.cache

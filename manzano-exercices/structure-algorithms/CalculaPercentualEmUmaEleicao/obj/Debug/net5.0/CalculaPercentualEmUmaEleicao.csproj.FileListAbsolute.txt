@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\bin\Debug\net5.0\CalculaPercentualEmUmaEleicao.exe
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\bin\Debug\net5.0\CalculaPercentualEmUmaEleicao.deps.json
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\bin\Debug\net5.0\CalculaPercentualEmUmaEleicao.runtimeconfig.json
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\bin\Debug\net5.0\CalculaPercentualEmUmaEleicao.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\bin\Debug\net5.0\CalculaPercentualEmUmaEleicao.dll
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\bin\Debug\net5.0\ref\CalculaPercentualEmUmaEleicao.dll
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\bin\Debug\net5.0\CalculaPercentualEmUmaEleicao.pdb
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.dll
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\ref\CalculaPercentualEmUmaEleicao.dll
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.pdb
+C:\Users\ladyv\source\repos\CalculaPercentualEmUmaEleicao\obj\Debug\net5.0\CalculaPercentualEmUmaEleicao.genruntimeconfig.cache

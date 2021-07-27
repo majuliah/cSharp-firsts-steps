@@ -1,0 +1,15 @@
+C:\Users\ladyv\source\repos\QuadradoDaSoma\bin\Debug\net5.0\QuadradoDaSoma.exe
+C:\Users\ladyv\source\repos\QuadradoDaSoma\bin\Debug\net5.0\QuadradoDaSoma.deps.json
+C:\Users\ladyv\source\repos\QuadradoDaSoma\bin\Debug\net5.0\QuadradoDaSoma.runtimeconfig.json
+C:\Users\ladyv\source\repos\QuadradoDaSoma\bin\Debug\net5.0\QuadradoDaSoma.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\QuadradoDaSoma\bin\Debug\net5.0\QuadradoDaSoma.dll
+C:\Users\ladyv\source\repos\QuadradoDaSoma\bin\Debug\net5.0\ref\QuadradoDaSoma.dll
+C:\Users\ladyv\source\repos\QuadradoDaSoma\bin\Debug\net5.0\QuadradoDaSoma.pdb
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\QuadradoDaSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\QuadradoDaSoma.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\QuadradoDaSoma.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\QuadradoDaSoma.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\QuadradoDaSoma.dll
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\ref\QuadradoDaSoma.dll
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\QuadradoDaSoma.pdb
+C:\Users\ladyv\source\repos\QuadradoDaSoma\obj\Debug\net5.0\QuadradoDaSoma.genruntimeconfig.cache

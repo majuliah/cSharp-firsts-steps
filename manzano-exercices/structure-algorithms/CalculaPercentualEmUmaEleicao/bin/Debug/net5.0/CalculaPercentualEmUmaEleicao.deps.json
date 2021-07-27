@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculaPercentualEmUmaEleicao/1.0.0": {
+        "runtime": {
+          "CalculaPercentualEmUmaEleicao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculaPercentualEmUmaEleicao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\bin\Debug\net5.0\AreaDeCircunferencia.exe
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\bin\Debug\net5.0\AreaDeCircunferencia.deps.json
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\bin\Debug\net5.0\AreaDeCircunferencia.runtimeconfig.json
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\bin\Debug\net5.0\AreaDeCircunferencia.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\bin\Debug\net5.0\AreaDeCircunferencia.dll
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\bin\Debug\net5.0\ref\AreaDeCircunferencia.dll
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\bin\Debug\net5.0\AreaDeCircunferencia.pdb
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\AreaDeCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\AreaDeCircunferencia.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\AreaDeCircunferencia.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\AreaDeCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\AreaDeCircunferencia.dll
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\ref\AreaDeCircunferencia.dll
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\AreaDeCircunferencia.pdb
+C:\Users\ladyv\source\repos\AreaDeCircunferencia\obj\Debug\net5.0\AreaDeCircunferencia.genruntimeconfig.cache

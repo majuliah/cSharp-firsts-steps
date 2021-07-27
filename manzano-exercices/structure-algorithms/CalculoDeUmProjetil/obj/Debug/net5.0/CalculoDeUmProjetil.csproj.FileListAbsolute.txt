@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\bin\Debug\net5.0\CalculoDeUmProjetil.exe
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\bin\Debug\net5.0\CalculoDeUmProjetil.deps.json
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\bin\Debug\net5.0\CalculoDeUmProjetil.runtimeconfig.json
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\bin\Debug\net5.0\CalculoDeUmProjetil.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\bin\Debug\net5.0\CalculoDeUmProjetil.dll
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\bin\Debug\net5.0\ref\CalculoDeUmProjetil.dll
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\bin\Debug\net5.0\CalculoDeUmProjetil.pdb
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.dll
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\ref\CalculoDeUmProjetil.dll
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.pdb
+C:\Users\ladyv\source\repos\CalculoDeUmProjetil\obj\Debug\net5.0\CalculoDeUmProjetil.genruntimeconfig.cache

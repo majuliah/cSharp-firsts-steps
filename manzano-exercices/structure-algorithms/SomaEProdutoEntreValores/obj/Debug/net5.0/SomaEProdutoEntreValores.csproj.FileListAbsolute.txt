@@ -1,0 +1,15 @@
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\bin\Debug\net5.0\SomaEProdutoEntreValores.exe
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\bin\Debug\net5.0\SomaEProdutoEntreValores.deps.json
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\bin\Debug\net5.0\SomaEProdutoEntreValores.runtimeconfig.json
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\bin\Debug\net5.0\SomaEProdutoEntreValores.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\bin\Debug\net5.0\SomaEProdutoEntreValores.dll
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\bin\Debug\net5.0\ref\SomaEProdutoEntreValores.dll
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\bin\Debug\net5.0\SomaEProdutoEntreValores.pdb
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\SomaEProdutoEntreValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\SomaEProdutoEntreValores.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\SomaEProdutoEntreValores.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\SomaEProdutoEntreValores.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\SomaEProdutoEntreValores.dll
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\ref\SomaEProdutoEntreValores.dll
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\SomaEProdutoEntreValores.pdb
+C:\Users\ladyv\source\repos\SomaEProdutoEntreValores\obj\Debug\net5.0\SomaEProdutoEntreValores.genruntimeconfig.cache

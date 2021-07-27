@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\bin\Debug\net5.0\ConverteDolarParaReal.exe
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\bin\Debug\net5.0\ConverteDolarParaReal.deps.json
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\bin\Debug\net5.0\ConverteDolarParaReal.runtimeconfig.json
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\bin\Debug\net5.0\ConverteDolarParaReal.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\bin\Debug\net5.0\ConverteDolarParaReal.dll
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\bin\Debug\net5.0\ref\ConverteDolarParaReal.dll
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\bin\Debug\net5.0\ConverteDolarParaReal.pdb
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.dll
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ref\ConverteDolarParaReal.dll
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.pdb
+C:\Users\ladyv\source\repos\ConverteDolarParaReal\obj\Debug\net5.0\ConverteDolarParaReal.genruntimeconfig.cache

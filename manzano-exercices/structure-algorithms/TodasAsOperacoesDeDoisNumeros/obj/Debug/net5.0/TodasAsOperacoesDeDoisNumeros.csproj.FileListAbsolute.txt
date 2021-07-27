@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\bin\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.exe
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\bin\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.deps.json
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\bin\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.runtimeconfig.json
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\bin\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\bin\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.dll
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\bin\Debug\net5.0\ref\TodasAsOperacoesDeDoisNumeros.dll
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\bin\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.pdb
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.dll
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\ref\TodasAsOperacoesDeDoisNumeros.dll
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.pdb
+C:\Users\ladyv\source\repos\TodasAsOperacoesDeDoisNumeros\obj\Debug\net5.0\TodasAsOperacoesDeDoisNumeros.genruntimeconfig.cache
