@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\bin\Debug\net5.0\ConverteRealParaDolar.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\bin\Debug\net5.0\ConverteRealParaDolar.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\bin\Debug\net5.0\ConverteRealParaDolar.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\bin\Debug\net5.0\ConverteRealParaDolar.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\bin\Debug\net5.0\ConverteRealParaDolar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\bin\Debug\net5.0\ref\ConverteRealParaDolar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\bin\Debug\net5.0\ConverteRealParaDolar.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ref\ConverteRealParaDolar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\ConverteRealParaDolar\obj\Debug\net5.0\ConverteRealParaDolar.genruntimeconfig.cache
