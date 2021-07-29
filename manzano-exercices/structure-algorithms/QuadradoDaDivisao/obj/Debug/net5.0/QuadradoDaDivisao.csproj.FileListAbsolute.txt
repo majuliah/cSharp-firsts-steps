@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\bin\Debug\net5.0\QuadradoDaDivisao.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\bin\Debug\net5.0\QuadradoDaDivisao.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\bin\Debug\net5.0\QuadradoDaDivisao.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\bin\Debug\net5.0\QuadradoDaDivisao.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\bin\Debug\net5.0\QuadradoDaDivisao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\bin\Debug\net5.0\ref\QuadradoDaDivisao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\bin\Debug\net5.0\QuadradoDaDivisao.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\QuadradoDaDivisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\QuadradoDaDivisao.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\QuadradoDaDivisao.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\QuadradoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\QuadradoDaDivisao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\ref\QuadradoDaDivisao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\QuadradoDaDivisao.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\QuadradoDaDivisao\obj\Debug\net5.0\QuadradoDaDivisao.genruntimeconfig.cache

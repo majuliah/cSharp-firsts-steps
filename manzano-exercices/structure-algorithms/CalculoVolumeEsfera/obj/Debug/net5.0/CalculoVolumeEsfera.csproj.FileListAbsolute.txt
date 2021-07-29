@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\bin\Debug\net5.0\ref\CalculoVolumeEsfera.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\ref\CalculoVolumeEsfera.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.genruntimeconfig.cache

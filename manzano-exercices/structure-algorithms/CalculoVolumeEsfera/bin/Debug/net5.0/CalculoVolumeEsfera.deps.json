@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculoVolumeEsfera/1.0.0": {
+        "runtime": {
+          "CalculoVolumeEsfera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculoVolumeEsfera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

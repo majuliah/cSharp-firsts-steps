@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\bin\Debug\net5.0\ConverteSegundos1019.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\bin\Debug\net5.0\ConverteSegundos1019.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\bin\Debug\net5.0\ConverteSegundos1019.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\bin\Debug\net5.0\ConverteSegundos1019.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\bin\Debug\net5.0\ConverteSegundos1019.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\bin\Debug\net5.0\ref\ConverteSegundos1019.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\bin\Debug\net5.0\ConverteSegundos1019.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ref\ConverteSegundos1019.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteSegundos1019\obj\Debug\net5.0\ConverteSegundos1019.genruntimeconfig.cache

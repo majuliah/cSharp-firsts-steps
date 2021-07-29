@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaRaizEbase", "CalculaRaizEbase.csproj", "{5735B298-E28C-474A-91ED-9122D494BC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5735B298-E28C-474A-91ED-9122D494BC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5735B298-E28C-474A-91ED-9122D494BC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5735B298-E28C-474A-91ED-9122D494BC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5735B298-E28C-474A-91ED-9122D494BC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CACBB722-11C8-458A-A979-7DD13B06C202}
+	EndGlobalSection
+EndGlobal

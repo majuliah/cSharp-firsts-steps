@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\bin\Debug\net5.0\ConverteDiaEmAno.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\bin\Debug\net5.0\ConverteDiaEmAno.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\bin\Debug\net5.0\ConverteDiaEmAno.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\bin\Debug\net5.0\ConverteDiaEmAno.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\bin\Debug\net5.0\ConverteDiaEmAno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\bin\Debug\net5.0\ref\ConverteDiaEmAno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\bin\Debug\net5.0\ConverteDiaEmAno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ref\ConverteDiaEmAno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\ConverteDiaEmAno\obj\Debug\net5.0\ConverteDiaEmAno.genruntimeconfig.cache

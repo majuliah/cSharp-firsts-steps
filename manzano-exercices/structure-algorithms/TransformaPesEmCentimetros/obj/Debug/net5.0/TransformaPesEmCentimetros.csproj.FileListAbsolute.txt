@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\bin\Debug\net5.0\TransformaPesEmCentimetros.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\bin\Debug\net5.0\TransformaPesEmCentimetros.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\bin\Debug\net5.0\TransformaPesEmCentimetros.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\bin\Debug\net5.0\TransformaPesEmCentimetros.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\bin\Debug\net5.0\TransformaPesEmCentimetros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\bin\Debug\net5.0\ref\TransformaPesEmCentimetros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\bin\Debug\net5.0\TransformaPesEmCentimetros.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\TransformaPesEmCentimetros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\TransformaPesEmCentimetros.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\TransformaPesEmCentimetros.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\TransformaPesEmCentimetros.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\TransformaPesEmCentimetros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\ref\TransformaPesEmCentimetros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\TransformaPesEmCentimetros.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\TransformaPesEmCentimetros\obj\Debug\net5.0\TransformaPesEmCentimetros.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\bin\Debug\net5.0\SucessorEantecessor.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\bin\Debug\net5.0\SucessorEantecessor.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\bin\Debug\net5.0\SucessorEantecessor.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\bin\Debug\net5.0\SucessorEantecessor.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\bin\Debug\net5.0\SucessorEantecessor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\bin\Debug\net5.0\ref\SucessorEantecessor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\bin\Debug\net5.0\SucessorEantecessor.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\SucessorEantecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\SucessorEantecessor.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\SucessorEantecessor.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\SucessorEantecessor.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\SucessorEantecessor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\ref\SucessorEantecessor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\SucessorEantecessor.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\structure-algorithms\SucessorEantecessor\obj\Debug\net5.0\SucessorEantecessor.genruntimeconfig.cache
