@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\bin\Debug\net5.0\Distancia1016.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\bin\Debug\net5.0\Distancia1016.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\bin\Debug\net5.0\Distancia1016.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\bin\Debug\net5.0\Distancia1016.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\bin\Debug\net5.0\Distancia1016.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\bin\Debug\net5.0\ref\Distancia1016.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\bin\Debug\net5.0\Distancia1016.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\ref\Distancia1016.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\Distancia1016\obj\Debug\net5.0\Distancia1016.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Distancia1016/1.0.0": {
+        "runtime": {
+          "Distancia1016.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distancia1016/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
