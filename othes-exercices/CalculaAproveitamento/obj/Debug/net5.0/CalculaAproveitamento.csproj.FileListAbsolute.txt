@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\bin\Debug\net5.0\CalculaAproveitamento.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\bin\Debug\net5.0\CalculaAproveitamento.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\bin\Debug\net5.0\CalculaAproveitamento.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\bin\Debug\net5.0\CalculaAproveitamento.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\bin\Debug\net5.0\CalculaAproveitamento.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\bin\Debug\net5.0\ref\CalculaAproveitamento.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\bin\Debug\net5.0\CalculaAproveitamento.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\CalculaAproveitamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\CalculaAproveitamento.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\CalculaAproveitamento.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\CalculaAproveitamento.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\CalculaAproveitamento.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\ref\CalculaAproveitamento.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\CalculaAproveitamento.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAproveitamento\obj\Debug\net5.0\CalculaAproveitamento.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\bin\Debug\net5.0\CalculaMulta.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\bin\Debug\net5.0\CalculaMulta.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\bin\Debug\net5.0\CalculaMulta.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\bin\Debug\net5.0\CalculaMulta.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\bin\Debug\net5.0\CalculaMulta.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\bin\Debug\net5.0\ref\CalculaMulta.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\bin\Debug\net5.0\CalculaMulta.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\CalculaMulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\CalculaMulta.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\CalculaMulta.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\CalculaMulta.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\CalculaMulta.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\ref\CalculaMulta.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\CalculaMulta.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMulta\obj\Debug\net5.0\CalculaMulta.genruntimeconfig.cache
