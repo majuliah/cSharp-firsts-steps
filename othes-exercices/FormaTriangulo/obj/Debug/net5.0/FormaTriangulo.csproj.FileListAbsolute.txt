@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\bin\Debug\net5.0\FormaTriangulo.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\bin\Debug\net5.0\FormaTriangulo.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\bin\Debug\net5.0\FormaTriangulo.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\bin\Debug\net5.0\FormaTriangulo.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\bin\Debug\net5.0\FormaTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\bin\Debug\net5.0\ref\FormaTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\bin\Debug\net5.0\FormaTriangulo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\FormaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\FormaTriangulo.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\FormaTriangulo.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\FormaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\FormaTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\ref\FormaTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\FormaTriangulo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\FormaTriangulo\obj\Debug\net5.0\FormaTriangulo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\bin\Debug\net5.0\AlistamentoMilitar.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\bin\Debug\net5.0\AlistamentoMilitar.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\bin\Debug\net5.0\AlistamentoMilitar.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\bin\Debug\net5.0\AlistamentoMilitar.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\bin\Debug\net5.0\AlistamentoMilitar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\bin\Debug\net5.0\ref\AlistamentoMilitar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\bin\Debug\net5.0\AlistamentoMilitar.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\ref\AlistamentoMilitar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AlistamentoMilitar\obj\Debug\net5.0\AlistamentoMilitar.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\bin\Debug\net5.0\CalculaValorPassagem.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\bin\Debug\net5.0\CalculaValorPassagem.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\bin\Debug\net5.0\CalculaValorPassagem.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\bin\Debug\net5.0\CalculaValorPassagem.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\bin\Debug\net5.0\CalculaValorPassagem.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\bin\Debug\net5.0\ref\CalculaValorPassagem.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\bin\Debug\net5.0\CalculaValorPassagem.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\CalculaValorPassagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\CalculaValorPassagem.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\CalculaValorPassagem.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\CalculaValorPassagem.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\CalculaValorPassagem.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\ref\CalculaValorPassagem.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\CalculaValorPassagem.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaValorPassagem\obj\Debug\net5.0\CalculaValorPassagem.genruntimeconfig.cache

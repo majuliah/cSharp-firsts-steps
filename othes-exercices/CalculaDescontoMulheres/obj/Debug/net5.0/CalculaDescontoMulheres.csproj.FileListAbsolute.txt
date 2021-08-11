@@ -1,0 +1,15 @@
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\bin\Debug\net5.0\CalculaDescontoMulheres.exe
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\bin\Debug\net5.0\CalculaDescontoMulheres.deps.json
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\bin\Debug\net5.0\CalculaDescontoMulheres.runtimeconfig.json
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\bin\Debug\net5.0\CalculaDescontoMulheres.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\bin\Debug\net5.0\CalculaDescontoMulheres.dll
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\bin\Debug\net5.0\ref\CalculaDescontoMulheres.dll
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\bin\Debug\net5.0\CalculaDescontoMulheres.pdb
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\CalculaDescontoMulheres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\CalculaDescontoMulheres.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\CalculaDescontoMulheres.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\CalculaDescontoMulheres.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\CalculaDescontoMulheres.dll
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\ref\CalculaDescontoMulheres.dll
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\CalculaDescontoMulheres.pdb
+C:\Users\ladyv\source\repos\CalculaDescontoMulheres\obj\Debug\net5.0\CalculaDescontoMulheres.genruntimeconfig.cache

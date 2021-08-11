@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\bin\Debug\net5.0\AnoBissexto.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\bin\Debug\net5.0\AnoBissexto.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\bin\Debug\net5.0\AnoBissexto.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\bin\Debug\net5.0\AnoBissexto.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\bin\Debug\net5.0\AnoBissexto.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\bin\Debug\net5.0\ref\AnoBissexto.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\bin\Debug\net5.0\AnoBissexto.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\ref\AnoBissexto.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\AnoBissexto\obj\Debug\net5.0\AnoBissexto.genruntimeconfig.cache
