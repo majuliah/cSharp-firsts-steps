@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\bin\Debug\net5.0\RefazendoTriangulo.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\bin\Debug\net5.0\RefazendoTriangulo.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\bin\Debug\net5.0\RefazendoTriangulo.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\bin\Debug\net5.0\RefazendoTriangulo.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\bin\Debug\net5.0\RefazendoTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\bin\Debug\net5.0\ref\RefazendoTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\bin\Debug\net5.0\RefazendoTriangulo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\ref\RefazendoTriangulo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\RefazendoTriangulo\obj\Debug\net5.0\RefazendoTriangulo.genruntimeconfig.cache

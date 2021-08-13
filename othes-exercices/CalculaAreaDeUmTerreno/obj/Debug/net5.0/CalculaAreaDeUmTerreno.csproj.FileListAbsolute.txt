@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\bin\Debug\net5.0\CalculaAreaDeUmTerreno.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\bin\Debug\net5.0\CalculaAreaDeUmTerreno.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\bin\Debug\net5.0\CalculaAreaDeUmTerreno.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\bin\Debug\net5.0\CalculaAreaDeUmTerreno.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\bin\Debug\net5.0\CalculaAreaDeUmTerreno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\bin\Debug\net5.0\ref\CalculaAreaDeUmTerreno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\bin\Debug\net5.0\CalculaAreaDeUmTerreno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\ref\CalculaAreaDeUmTerreno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaAreaDeUmTerreno\obj\Debug\net5.0\CalculaAreaDeUmTerreno.genruntimeconfig.cache

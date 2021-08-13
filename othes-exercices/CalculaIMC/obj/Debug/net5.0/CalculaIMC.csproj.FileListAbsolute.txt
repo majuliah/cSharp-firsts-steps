@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\bin\Debug\net5.0\CalculaIMC.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\bin\Debug\net5.0\CalculaIMC.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\bin\Debug\net5.0\CalculaIMC.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\bin\Debug\net5.0\CalculaIMC.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\bin\Debug\net5.0\CalculaIMC.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\bin\Debug\net5.0\ref\CalculaIMC.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\bin\Debug\net5.0\CalculaIMC.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\ref\CalculaIMC.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIMC\obj\Debug\net5.0\CalculaIMC.genruntimeconfig.cache

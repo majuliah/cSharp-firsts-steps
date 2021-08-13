@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\bin\Debug\net5.0\CalculaReajuste.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\bin\Debug\net5.0\CalculaReajuste.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\bin\Debug\net5.0\CalculaReajuste.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\bin\Debug\net5.0\CalculaReajuste.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\bin\Debug\net5.0\CalculaReajuste.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\bin\Debug\net5.0\ref\CalculaReajuste.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\bin\Debug\net5.0\CalculaReajuste.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\ref\CalculaReajuste.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaReajuste\obj\Debug\net5.0\CalculaReajuste.genruntimeconfig.cache

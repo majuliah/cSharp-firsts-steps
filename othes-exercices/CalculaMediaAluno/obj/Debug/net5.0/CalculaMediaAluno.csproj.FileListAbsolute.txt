@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\bin\Debug\net5.0\CalculaMediaAluno.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\bin\Debug\net5.0\CalculaMediaAluno.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\bin\Debug\net5.0\CalculaMediaAluno.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\bin\Debug\net5.0\CalculaMediaAluno.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\bin\Debug\net5.0\CalculaMediaAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\bin\Debug\net5.0\ref\CalculaMediaAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\bin\Debug\net5.0\CalculaMediaAluno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\ref\CalculaMediaAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaMediaAluno\obj\Debug\net5.0\CalculaMediaAluno.genruntimeconfig.cache
