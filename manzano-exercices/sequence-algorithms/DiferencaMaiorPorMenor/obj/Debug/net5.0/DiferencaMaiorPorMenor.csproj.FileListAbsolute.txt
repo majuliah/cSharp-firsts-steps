@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\bin\Debug\net5.0\DiferencaMaiorPorMenor.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\bin\Debug\net5.0\DiferencaMaiorPorMenor.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\bin\Debug\net5.0\DiferencaMaiorPorMenor.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\bin\Debug\net5.0\DiferencaMaiorPorMenor.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\bin\Debug\net5.0\DiferencaMaiorPorMenor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\bin\Debug\net5.0\ref\DiferencaMaiorPorMenor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\bin\Debug\net5.0\DiferencaMaiorPorMenor.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\ref\DiferencaMaiorPorMenor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\obj\Debug\net5.0\DiferencaMaiorPorMenor.genruntimeconfig.cache

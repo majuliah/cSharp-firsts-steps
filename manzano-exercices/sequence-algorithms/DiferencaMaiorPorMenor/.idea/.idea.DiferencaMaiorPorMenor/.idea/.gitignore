@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.DiferencaMaiorPorMenor.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DiferencaMaiorPorMenor\.idea\.idea.DiferencaMaiorPorMenor\.idea/dataSources/
+/dataSources.local.xml

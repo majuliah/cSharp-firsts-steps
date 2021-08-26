@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\bin\Debug\net5.0\FormulaBhaskara.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\bin\Debug\net5.0\FormulaBhaskara.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\bin\Debug\net5.0\FormulaBhaskara.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\bin\Debug\net5.0\FormulaBhaskara.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\bin\Debug\net5.0\FormulaBhaskara.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\bin\Debug\net5.0\ref\FormulaBhaskara.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\bin\Debug\net5.0\FormulaBhaskara.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\ref\FormulaBhaskara.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\obj\Debug\net5.0\FormulaBhaskara.genruntimeconfig.cache

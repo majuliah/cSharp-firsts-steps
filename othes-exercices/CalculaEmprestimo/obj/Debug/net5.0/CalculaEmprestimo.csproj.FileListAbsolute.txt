@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\bin\Debug\net5.0\CalculaEmprestimo.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\bin\Debug\net5.0\CalculaEmprestimo.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\bin\Debug\net5.0\CalculaEmprestimo.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\bin\Debug\net5.0\CalculaEmprestimo.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\bin\Debug\net5.0\CalculaEmprestimo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\bin\Debug\net5.0\ref\CalculaEmprestimo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\bin\Debug\net5.0\CalculaEmprestimo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\ref\CalculaEmprestimo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaEmprestimo\obj\Debug\net5.0\CalculaEmprestimo.genruntimeconfig.cache

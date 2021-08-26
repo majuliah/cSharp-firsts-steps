@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\bin\Debug\net5.0\NotasEMoedas1021.exe
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\bin\Debug\net5.0\NotasEMoedas1021.deps.json
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\bin\Debug\net5.0\NotasEMoedas1021.runtimeconfig.json
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\bin\Debug\net5.0\NotasEMoedas1021.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\bin\Debug\net5.0\NotasEMoedas1021.dll
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\bin\Debug\net5.0\ref\NotasEMoedas1021.dll
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\bin\Debug\net5.0\NotasEMoedas1021.pdb
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.AssemblyInfo.cs
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.dll
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\ref\NotasEMoedas1021.dll
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.pdb
+C:\Users\ladyv\Documents\outros\jetRider\NotasEMoedas1021\obj\Debug\net5.0\NotasEMoedas1021.genruntimeconfig.cache

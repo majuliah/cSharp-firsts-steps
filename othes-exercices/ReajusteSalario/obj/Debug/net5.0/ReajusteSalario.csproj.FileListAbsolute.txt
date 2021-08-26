@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\bin\Debug\net5.0\ReajusteSalario.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\bin\Debug\net5.0\ReajusteSalario.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\bin\Debug\net5.0\ReajusteSalario.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\bin\Debug\net5.0\ReajusteSalario.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\bin\Debug\net5.0\ReajusteSalario.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\bin\Debug\net5.0\ref\ReajusteSalario.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\bin\Debug\net5.0\ReajusteSalario.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ref\ReajusteSalario.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ReajusteSalario\obj\Debug\net5.0\ReajusteSalario.genruntimeconfig.cache

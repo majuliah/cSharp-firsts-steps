@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\bin\Debug\net5.0\ExercicioPorHora.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\bin\Debug\net5.0\ExercicioPorHora.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\bin\Debug\net5.0\ExercicioPorHora.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\bin\Debug\net5.0\ExercicioPorHora.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\bin\Debug\net5.0\ExercicioPorHora.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\bin\Debug\net5.0\ref\ExercicioPorHora.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\bin\Debug\net5.0\ExercicioPorHora.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ref\ExercicioPorHora.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ExercicioPorHora\obj\Debug\net5.0\ExercicioPorHora.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.FormulaBhaskara.iml
+/projectSettingsUpdater.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\ladyv\Documents\cursinhoCsharp\beginning\basic-exercices-uri\FormulaBhaskara\.idea\.idea.FormulaBhaskara\.idea/dataSources/
+/dataSources.local.xml

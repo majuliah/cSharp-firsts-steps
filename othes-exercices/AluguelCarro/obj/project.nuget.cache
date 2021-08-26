@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Zg/drhtJGH52/oS2M/cebmgPEKATzyHizomr7fcgAnXsvCLX02cLJSgzO1m5ppSJqzLROp1wryeh1yFa1W4Zw==",
+  "dgSpecHash": "kgShOH+6coGF84y7sFVNSSfo8jPMbjZ8aucfxt5sF1lgj4yRj1VZYV9MSZEDBuBzNKCx4uen4ZEmrqyrvXQUXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ladyv\\Documents\\cursinhoCsharp\\beginning\\othes-exercices\\AluguelCarro\\AluguelCarro.csproj",
+  "projectFilePath": "C:\\Users\\ladyv\\source\\repos\\AluguelCarro\\AluguelCarro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

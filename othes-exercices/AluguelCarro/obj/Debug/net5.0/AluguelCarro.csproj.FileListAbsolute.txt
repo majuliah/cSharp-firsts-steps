@@ -1,0 +1,16 @@
+C:\Users\ladyv\source\repos\AluguelCarro\bin\Debug\net5.0\AluguelCarro.exe
+C:\Users\ladyv\source\repos\AluguelCarro\bin\Debug\net5.0\AluguelCarro.deps.json
+C:\Users\ladyv\source\repos\AluguelCarro\bin\Debug\net5.0\AluguelCarro.runtimeconfig.json
+C:\Users\ladyv\source\repos\AluguelCarro\bin\Debug\net5.0\AluguelCarro.runtimeconfig.dev.json
+C:\Users\ladyv\source\repos\AluguelCarro\bin\Debug\net5.0\AluguelCarro.dll
+C:\Users\ladyv\source\repos\AluguelCarro\bin\Debug\net5.0\ref\AluguelCarro.dll
+C:\Users\ladyv\source\repos\AluguelCarro\bin\Debug\net5.0\AluguelCarro.pdb
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.csproj.AssemblyReference.cache
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.AssemblyInfoInputs.cache
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.AssemblyInfo.cs
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.dll
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\ref\AluguelCarro.dll
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.pdb
+C:\Users\ladyv\source\repos\AluguelCarro\obj\Debug\net5.0\AluguelCarro.genruntimeconfig.cache
