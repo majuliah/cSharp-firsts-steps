@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.QuatroMediasDeUmAluno.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\.idea\.idea.QuatroMediasDeUmAluno\.idea/dataSources/
+/dataSources.local.xml

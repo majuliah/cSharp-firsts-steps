@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\bin\Debug\net5.0\QuatroMediasDeUmAluno.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\bin\Debug\net5.0\QuatroMediasDeUmAluno.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\bin\Debug\net5.0\QuatroMediasDeUmAluno.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\bin\Debug\net5.0\QuatroMediasDeUmAluno.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\bin\Debug\net5.0\QuatroMediasDeUmAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\bin\Debug\net5.0\ref\QuatroMediasDeUmAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\bin\Debug\net5.0\QuatroMediasDeUmAluno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\ref\QuatroMediasDeUmAluno.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\QuatroMediasDeUmAluno\obj\Debug\net5.0\QuatroMediasDeUmAluno.genruntimeconfig.cache

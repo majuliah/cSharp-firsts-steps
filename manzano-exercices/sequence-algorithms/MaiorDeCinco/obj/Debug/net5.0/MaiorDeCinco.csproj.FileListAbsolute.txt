@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\bin\Debug\net5.0\MaiorDeCinco.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\bin\Debug\net5.0\MaiorDeCinco.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\bin\Debug\net5.0\MaiorDeCinco.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\bin\Debug\net5.0\MaiorDeCinco.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\bin\Debug\net5.0\MaiorDeCinco.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\bin\Debug\net5.0\ref\MaiorDeCinco.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\bin\Debug\net5.0\MaiorDeCinco.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\ref\MaiorDeCinco.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorDeCinco\obj\Debug\net5.0\MaiorDeCinco.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\bin\Debug\net5.0\ConverteSinais.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\bin\Debug\net5.0\ConverteSinais.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\bin\Debug\net5.0\ConverteSinais.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\bin\Debug\net5.0\ConverteSinais.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\bin\Debug\net5.0\ConverteSinais.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\bin\Debug\net5.0\ref\ConverteSinais.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\bin\Debug\net5.0\ConverteSinais.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ref\ConverteSinais.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ConverteSinais\obj\Debug\net5.0\ConverteSinais.genruntimeconfig.cache

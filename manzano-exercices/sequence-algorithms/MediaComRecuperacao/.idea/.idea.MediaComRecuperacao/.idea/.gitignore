@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.MediaComRecuperacao.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\.idea\.idea.MediaComRecuperacao\.idea/dataSources/
+/dataSources.local.xml

@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\bin\Debug\net5.0\OrdemCrescente.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\bin\Debug\net5.0\OrdemCrescente.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\bin\Debug\net5.0\OrdemCrescente.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\bin\Debug\net5.0\OrdemCrescente.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\bin\Debug\net5.0\OrdemCrescente.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\bin\Debug\net5.0\ref\OrdemCrescente.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\bin\Debug\net5.0\OrdemCrescente.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\ref\OrdemCrescente.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\OrdemCrescente\obj\Debug\net5.0\OrdemCrescente.genruntimeconfig.cache

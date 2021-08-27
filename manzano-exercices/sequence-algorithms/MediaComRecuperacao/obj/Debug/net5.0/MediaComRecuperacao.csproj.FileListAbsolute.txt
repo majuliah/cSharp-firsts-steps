@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\bin\Debug\net5.0\MediaComRecuperacao.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\bin\Debug\net5.0\MediaComRecuperacao.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\bin\Debug\net5.0\MediaComRecuperacao.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\bin\Debug\net5.0\MediaComRecuperacao.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\bin\Debug\net5.0\MediaComRecuperacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\bin\Debug\net5.0\ref\MediaComRecuperacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\bin\Debug\net5.0\MediaComRecuperacao.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\ref\MediaComRecuperacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MediaComRecuperacao\obj\Debug\net5.0\MediaComRecuperacao.genruntimeconfig.cache
