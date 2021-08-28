@@ -1,0 +1,13 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\bin\Debug\netcoreapp3.1\Triangulo1043.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\bin\Debug\netcoreapp3.1\Triangulo1043.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\bin\Debug\netcoreapp3.1\Triangulo1043.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\bin\Debug\netcoreapp3.1\Triangulo1043.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\bin\Debug\netcoreapp3.1\Triangulo1043.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\bin\Debug\netcoreapp3.1\Triangulo1043.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\obj\Debug\netcoreapp3.1\Triangulo1043.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\obj\Debug\netcoreapp3.1\Triangulo1043.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\obj\Debug\netcoreapp3.1\Triangulo1043.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\obj\Debug\netcoreapp3.1\Triangulo1043.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\obj\Debug\netcoreapp3.1\Triangulo1043.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\obj\Debug\netcoreapp3.1\Triangulo1043.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Triangulo1043\obj\Debug\netcoreapp3.1\Triangulo1043.genruntimeconfig.cache

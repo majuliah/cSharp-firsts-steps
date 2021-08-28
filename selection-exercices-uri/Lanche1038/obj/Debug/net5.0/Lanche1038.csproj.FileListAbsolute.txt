@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\bin\Debug\net5.0\Lanche1038.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\bin\Debug\net5.0\Lanche1038.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\bin\Debug\net5.0\Lanche1038.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\bin\Debug\net5.0\Lanche1038.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\bin\Debug\net5.0\Lanche1038.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\bin\Debug\net5.0\ref\Lanche1038.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\bin\Debug\net5.0\Lanche1038.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\ref\Lanche1038.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Lanche1038\obj\Debug\net5.0\Lanche1038.genruntimeconfig.cache

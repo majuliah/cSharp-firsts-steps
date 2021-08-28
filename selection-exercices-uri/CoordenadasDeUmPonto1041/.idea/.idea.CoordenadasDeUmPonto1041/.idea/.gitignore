@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.CoordenadasDeUmPonto1041.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\.idea\.idea.CoordenadasDeUmPonto1041\.idea/dataSources/
+/dataSources.local.xml

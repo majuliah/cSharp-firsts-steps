@@ -1,0 +1,13 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\bin\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\bin\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\bin\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\bin\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\bin\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\bin\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\obj\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\obj\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\obj\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\obj\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\obj\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\obj\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\CoordenadasDeUmPonto1041\obj\Debug\netcoreapp3.1\CoordenadasDeUmPonto1041.genruntimeconfig.cache
