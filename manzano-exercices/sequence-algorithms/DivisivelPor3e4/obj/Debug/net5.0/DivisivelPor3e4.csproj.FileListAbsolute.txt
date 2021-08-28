@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\bin\Debug\net5.0\DivisivelPor3e4.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\bin\Debug\net5.0\DivisivelPor3e4.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\bin\Debug\net5.0\DivisivelPor3e4.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\bin\Debug\net5.0\DivisivelPor3e4.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\bin\Debug\net5.0\DivisivelPor3e4.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\bin\Debug\net5.0\ref\DivisivelPor3e4.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\bin\Debug\net5.0\DivisivelPor3e4.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\ref\DivisivelPor3e4.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\DivisivelPor3e4\obj\Debug\net5.0\DivisivelPor3e4.genruntimeconfig.cache

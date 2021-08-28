@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\bin\Debug\net5.0\ResultadoMaiorQue300.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\bin\Debug\net5.0\ResultadoMaiorQue300.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\bin\Debug\net5.0\ResultadoMaiorQue300.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\bin\Debug\net5.0\ResultadoMaiorQue300.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\bin\Debug\net5.0\ResultadoMaiorQue300.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\bin\Debug\net5.0\ref\ResultadoMaiorQue300.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\bin\Debug\net5.0\ResultadoMaiorQue300.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ref\ResultadoMaiorQue300.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ResultadoMaiorQue300\obj\Debug\net5.0\ResultadoMaiorQue300.genruntimeconfig.cache

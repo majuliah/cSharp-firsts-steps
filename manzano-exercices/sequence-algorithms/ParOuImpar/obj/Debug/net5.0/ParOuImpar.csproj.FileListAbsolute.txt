@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\bin\Debug\net5.0\ParOuImpar.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\bin\Debug\net5.0\ParOuImpar.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\bin\Debug\net5.0\ParOuImpar.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\bin\Debug\net5.0\ParOuImpar.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\bin\Debug\net5.0\ParOuImpar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\bin\Debug\net5.0\ref\ParOuImpar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\bin\Debug\net5.0\ParOuImpar.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ref\ParOuImpar.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\ParOuImpar\obj\Debug\net5.0\ParOuImpar.genruntimeconfig.cache

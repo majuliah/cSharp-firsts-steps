@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\bin\Debug\net5.0\FaixaEntre1e9.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\bin\Debug\net5.0\FaixaEntre1e9.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\bin\Debug\net5.0\FaixaEntre1e9.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\bin\Debug\net5.0\FaixaEntre1e9.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\bin\Debug\net5.0\FaixaEntre1e9.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\bin\Debug\net5.0\ref\FaixaEntre1e9.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\bin\Debug\net5.0\FaixaEntre1e9.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\ref\FaixaEntre1e9.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\FaixaEntre1e9\obj\Debug\net5.0\FaixaEntre1e9.genruntimeconfig.cache

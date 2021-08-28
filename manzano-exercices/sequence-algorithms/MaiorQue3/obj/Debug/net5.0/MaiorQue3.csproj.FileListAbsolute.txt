@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\bin\Debug\net5.0\MaiorQue3.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\bin\Debug\net5.0\MaiorQue3.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\bin\Debug\net5.0\MaiorQue3.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\bin\Debug\net5.0\MaiorQue3.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\bin\Debug\net5.0\MaiorQue3.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\bin\Debug\net5.0\ref\MaiorQue3.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\bin\Debug\net5.0\MaiorQue3.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\ref\MaiorQue3.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\MaiorQue3\obj\Debug\net5.0\MaiorQue3.genruntimeconfig.cache

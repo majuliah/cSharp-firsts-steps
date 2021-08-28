@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FaixaEntre1e9/1.0.0": {
+        "runtime": {
+          "FaixaEntre1e9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaixaEntre1e9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

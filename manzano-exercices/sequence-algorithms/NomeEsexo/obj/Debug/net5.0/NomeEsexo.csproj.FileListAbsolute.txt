@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\bin\Debug\net5.0\NomeEsexo.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\bin\Debug\net5.0\NomeEsexo.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\bin\Debug\net5.0\NomeEsexo.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\bin\Debug\net5.0\NomeEsexo.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\bin\Debug\net5.0\NomeEsexo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\bin\Debug\net5.0\ref\NomeEsexo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\bin\Debug\net5.0\NomeEsexo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\ref\NomeEsexo.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\manzano-exercices\sequence-algorithms\NomeEsexo\obj\Debug\net5.0\NomeEsexo.genruntimeconfig.cache
