@@ -1,0 +1,13 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\bin\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\bin\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\bin\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\bin\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\bin\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\bin\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\obj\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\obj\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\obj\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\obj\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\obj\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\obj\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TipoDoTriangulo1045-melhorado\obj\Debug\netcoreapp3.1\TipoDoTriangulo1045-melhorado.genruntimeconfig.cache

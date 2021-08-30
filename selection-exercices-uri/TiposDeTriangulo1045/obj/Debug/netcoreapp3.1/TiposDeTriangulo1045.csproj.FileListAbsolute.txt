@@ -1,0 +1,13 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\bin\Debug\netcoreapp3.1\TiposDeTriangulo1045.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\bin\Debug\netcoreapp3.1\TiposDeTriangulo1045.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\bin\Debug\netcoreapp3.1\TiposDeTriangulo1045.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\bin\Debug\netcoreapp3.1\TiposDeTriangulo1045.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\bin\Debug\netcoreapp3.1\TiposDeTriangulo1045.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\bin\Debug\netcoreapp3.1\TiposDeTriangulo1045.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\obj\Debug\netcoreapp3.1\TiposDeTriangulo1045.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\obj\Debug\netcoreapp3.1\TiposDeTriangulo1045.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\obj\Debug\netcoreapp3.1\TiposDeTriangulo1045.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\obj\Debug\netcoreapp3.1\TiposDeTriangulo1045.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\obj\Debug\netcoreapp3.1\TiposDeTriangulo1045.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\obj\Debug\netcoreapp3.1\TiposDeTriangulo1045.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TiposDeTriangulo1045\obj\Debug\netcoreapp3.1\TiposDeTriangulo1045.genruntimeconfig.cache

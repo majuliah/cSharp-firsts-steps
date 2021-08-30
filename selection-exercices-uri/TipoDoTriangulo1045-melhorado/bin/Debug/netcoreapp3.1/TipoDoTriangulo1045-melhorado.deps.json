@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TipoDoTriangulo1045-melhorado/1.0.0": {
+        "runtime": {
+          "TipoDoTriangulo1045-melhorado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TipoDoTriangulo1045-melhorado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

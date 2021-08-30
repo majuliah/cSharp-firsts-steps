@@ -1,0 +1,13 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\bin\Debug\netcoreapp3.1\NotasDaProva2344.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\bin\Debug\netcoreapp3.1\NotasDaProva2344.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\bin\Debug\netcoreapp3.1\NotasDaProva2344.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\bin\Debug\netcoreapp3.1\NotasDaProva2344.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\bin\Debug\netcoreapp3.1\NotasDaProva2344.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\bin\Debug\netcoreapp3.1\NotasDaProva2344.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\obj\Debug\netcoreapp3.1\NotasDaProva2344.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\obj\Debug\netcoreapp3.1\NotasDaProva2344.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\obj\Debug\netcoreapp3.1\NotasDaProva2344.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\obj\Debug\netcoreapp3.1\NotasDaProva2344.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\obj\Debug\netcoreapp3.1\NotasDaProva2344.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\obj\Debug\netcoreapp3.1\NotasDaProva2344.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\NotasDaProva2344\obj\Debug\netcoreapp3.1\NotasDaProva2344.genruntimeconfig.cache
