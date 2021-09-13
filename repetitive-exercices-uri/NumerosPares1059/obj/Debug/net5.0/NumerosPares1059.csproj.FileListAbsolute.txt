@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\bin\Debug\net5.0\NumerosPares1059.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\bin\Debug\net5.0\NumerosPares1059.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\bin\Debug\net5.0\NumerosPares1059.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\bin\Debug\net5.0\NumerosPares1059.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\bin\Debug\net5.0\NumerosPares1059.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\bin\Debug\net5.0\ref\NumerosPares1059.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\bin\Debug\net5.0\NumerosPares1059.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\ref\NumerosPares1059.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPares1059\obj\Debug\net5.0\NumerosPares1059.genruntimeconfig.cache

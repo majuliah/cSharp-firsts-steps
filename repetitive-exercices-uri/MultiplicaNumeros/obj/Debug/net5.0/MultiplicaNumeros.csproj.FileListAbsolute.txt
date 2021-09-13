@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\bin\Debug\net5.0\MultiplicaNumeros.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\bin\Debug\net5.0\MultiplicaNumeros.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\bin\Debug\net5.0\MultiplicaNumeros.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\bin\Debug\net5.0\MultiplicaNumeros.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\bin\Debug\net5.0\MultiplicaNumeros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\bin\Debug\net5.0\ref\MultiplicaNumeros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\bin\Debug\net5.0\MultiplicaNumeros.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\ref\MultiplicaNumeros.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\MultiplicaNumeros\obj\Debug\net5.0\MultiplicaNumeros.genruntimeconfig.cache

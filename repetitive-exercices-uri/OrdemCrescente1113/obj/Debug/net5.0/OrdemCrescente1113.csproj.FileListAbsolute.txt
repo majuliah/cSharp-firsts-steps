@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\bin\Debug\net5.0\OrdemCrescente1113.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\bin\Debug\net5.0\OrdemCrescente1113.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\bin\Debug\net5.0\OrdemCrescente1113.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\bin\Debug\net5.0\OrdemCrescente1113.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\bin\Debug\net5.0\OrdemCrescente1113.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\bin\Debug\net5.0\ref\OrdemCrescente1113.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\bin\Debug\net5.0\OrdemCrescente1113.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\ref\OrdemCrescente1113.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\OrdemCrescente1113\obj\Debug\net5.0\OrdemCrescente1113.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\bin\Debug\net5.0\NumerosPositivos1060.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\bin\Debug\net5.0\NumerosPositivos1060.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\bin\Debug\net5.0\NumerosPositivos1060.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\bin\Debug\net5.0\NumerosPositivos1060.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\bin\Debug\net5.0\NumerosPositivos1060.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\bin\Debug\net5.0\ref\NumerosPositivos1060.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\bin\Debug\net5.0\NumerosPositivos1060.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\ref\NumerosPositivos1060.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosPositivos1060\obj\Debug\net5.0\NumerosPositivos1060.genruntimeconfig.cache

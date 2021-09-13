@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\bin\Debug\net5.0\SomaDifDeZero.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\bin\Debug\net5.0\SomaDifDeZero.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\bin\Debug\net5.0\SomaDifDeZero.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\bin\Debug\net5.0\SomaDifDeZero.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\bin\Debug\net5.0\SomaDifDeZero.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\bin\Debug\net5.0\ref\SomaDifDeZero.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\bin\Debug\net5.0\SomaDifDeZero.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\ref\SomaDifDeZero.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDifDeZero\obj\Debug\net5.0\SomaDifDeZero.genruntimeconfig.cache

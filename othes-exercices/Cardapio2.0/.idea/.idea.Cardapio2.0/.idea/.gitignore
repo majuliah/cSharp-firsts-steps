@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Cardapio2.0.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\.idea\.idea.Cardapio2.0\.idea/dataSources/
+/dataSources.local.xml

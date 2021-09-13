@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\bin\Debug\net5.0\TempoDeJogo1046.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\bin\Debug\net5.0\TempoDeJogo1046.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\bin\Debug\net5.0\TempoDeJogo1046.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\bin\Debug\net5.0\TempoDeJogo1046.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\bin\Debug\net5.0\TempoDeJogo1046.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\bin\Debug\net5.0\ref\TempoDeJogo1046.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\bin\Debug\net5.0\TempoDeJogo1046.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\ref\TempoDeJogo1046.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\TempoDeJogo1046\obj\Debug\net5.0\TempoDeJogo1046.genruntimeconfig.cache

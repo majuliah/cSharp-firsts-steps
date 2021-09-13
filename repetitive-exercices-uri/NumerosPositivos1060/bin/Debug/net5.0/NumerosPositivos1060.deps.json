@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NumerosPositivos1060/1.0.0": {
+        "runtime": {
+          "NumerosPositivos1060.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumerosPositivos1060/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

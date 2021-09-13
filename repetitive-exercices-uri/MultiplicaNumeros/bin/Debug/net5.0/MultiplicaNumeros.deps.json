@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MultiplicaNumeros/1.0.0": {
+        "runtime": {
+          "MultiplicaNumeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiplicaNumeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\bin\Debug\net5.0\Animal1049.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\bin\Debug\net5.0\Animal1049.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\bin\Debug\net5.0\Animal1049.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\bin\Debug\net5.0\Animal1049.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\bin\Debug\net5.0\Animal1049.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\bin\Debug\net5.0\ref\Animal1049.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\bin\Debug\net5.0\Animal1049.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\ref\Animal1049.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\selection-exercices-uri\Animal1049\obj\Debug\net5.0\Animal1049.genruntimeconfig.cache
