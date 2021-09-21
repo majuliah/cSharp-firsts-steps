@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\bin\Debug\net5.0\Cardapio2.0.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\bin\Debug\net5.0\Cardapio2.0.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\bin\Debug\net5.0\Cardapio2.0.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\bin\Debug\net5.0\Cardapio2.0.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\bin\Debug\net5.0\Cardapio2.0.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\bin\Debug\net5.0\ref\Cardapio2.0.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\bin\Debug\net5.0\Cardapio2.0.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\ref\Cardapio2.0.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\Cardapio2.0\obj\Debug\net5.0\Cardapio2.0.genruntimeconfig.cache

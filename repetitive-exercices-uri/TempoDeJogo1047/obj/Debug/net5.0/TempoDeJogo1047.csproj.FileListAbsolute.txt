@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\bin\Debug\net5.0\TempoDeJogo1047.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\bin\Debug\net5.0\TempoDeJogo1047.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\bin\Debug\net5.0\TempoDeJogo1047.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\bin\Debug\net5.0\TempoDeJogo1047.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\bin\Debug\net5.0\TempoDeJogo1047.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\bin\Debug\net5.0\ref\TempoDeJogo1047.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\bin\Debug\net5.0\TempoDeJogo1047.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\ref\TempoDeJogo1047.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TempoDeJogo1047\obj\Debug\net5.0\TempoDeJogo1047.genruntimeconfig.cache

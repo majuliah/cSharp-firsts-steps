@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\bin\Debug\net5.0\CalculaIdadeMedia.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\bin\Debug\net5.0\CalculaIdadeMedia.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\bin\Debug\net5.0\CalculaIdadeMedia.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\bin\Debug\net5.0\CalculaIdadeMedia.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\bin\Debug\net5.0\CalculaIdadeMedia.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\bin\Debug\net5.0\ref\CalculaIdadeMedia.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\bin\Debug\net5.0\CalculaIdadeMedia.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\ref\CalculaIdadeMedia.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\CalculaIdadeMedia\obj\Debug\net5.0\CalculaIdadeMedia.genruntimeconfig.cache

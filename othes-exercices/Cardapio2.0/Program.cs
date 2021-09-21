@@ -6,7 +6,10 @@ namespace Cardapio2._0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int opcao;
+            double total;
+            Console.WriteLine("Bem-Vindo ao Café com Leite!");
+            
         }
     }
 }
