@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\bin\Debug\net5.0\TipoCombustivel1134.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\bin\Debug\net5.0\TipoCombustivel1134.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\bin\Debug\net5.0\TipoCombustivel1134.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\bin\Debug\net5.0\TipoCombustivel1134.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\bin\Debug\net5.0\TipoCombustivel1134.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\bin\Debug\net5.0\ref\TipoCombustivel1134.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\bin\Debug\net5.0\TipoCombustivel1134.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\ref\TipoCombustivel1134.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\TipoCombustivel1134\obj\Debug\net5.0\TipoCombustivel1134.genruntimeconfig.cache
