@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\bin\Debug\net5.0\Quadrante1115.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\bin\Debug\net5.0\Quadrante1115.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\bin\Debug\net5.0\Quadrante1115.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\bin\Debug\net5.0\Quadrante1115.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\bin\Debug\net5.0\Quadrante1115.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\bin\Debug\net5.0\ref\Quadrante1115.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\bin\Debug\net5.0\Quadrante1115.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\ref\Quadrante1115.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Quadrante1115\obj\Debug\net5.0\Quadrante1115.genruntimeconfig.cache
