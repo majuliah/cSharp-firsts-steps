@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\bin\Debug\net5.0\VariasNotasComValidacao.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\bin\Debug\net5.0\VariasNotasComValidacao.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\bin\Debug\net5.0\VariasNotasComValidacao.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\bin\Debug\net5.0\VariasNotasComValidacao.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\bin\Debug\net5.0\VariasNotasComValidacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\bin\Debug\net5.0\ref\VariasNotasComValidacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\bin\Debug\net5.0\VariasNotasComValidacao.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\ref\VariasNotasComValidacao.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\VariasNotasComValidacao\obj\Debug\net5.0\VariasNotasComValidacao.genruntimeconfig.cache
