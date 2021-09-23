@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\bin\Debug\net5.0\Idades1154.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\bin\Debug\net5.0\Idades1154.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\bin\Debug\net5.0\Idades1154.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\bin\Debug\net5.0\Idades1154.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\bin\Debug\net5.0\Idades1154.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\bin\Debug\net5.0\ref\Idades1154.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\bin\Debug\net5.0\Idades1154.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\ref\Idades1154.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Idades1154\obj\Debug\net5.0\Idades1154.genruntimeconfig.cache
