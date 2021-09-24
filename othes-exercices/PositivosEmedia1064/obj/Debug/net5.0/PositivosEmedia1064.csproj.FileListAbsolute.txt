@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\bin\Debug\net5.0\PositivosEmedia1064.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\bin\Debug\net5.0\PositivosEmedia1064.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\bin\Debug\net5.0\PositivosEmedia1064.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\bin\Debug\net5.0\PositivosEmedia1064.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\bin\Debug\net5.0\PositivosEmedia1064.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\bin\Debug\net5.0\ref\PositivosEmedia1064.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\bin\Debug\net5.0\PositivosEmedia1064.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\ref\PositivosEmedia1064.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\PositivosEmedia1064\obj\Debug\net5.0\PositivosEmedia1064.genruntimeconfig.cache
