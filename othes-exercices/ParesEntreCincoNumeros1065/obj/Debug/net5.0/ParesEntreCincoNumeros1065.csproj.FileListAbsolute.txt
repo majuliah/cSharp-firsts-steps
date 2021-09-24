@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\bin\Debug\net5.0\ParesEntreCincoNumeros1065.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\bin\Debug\net5.0\ParesEntreCincoNumeros1065.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\bin\Debug\net5.0\ParesEntreCincoNumeros1065.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\bin\Debug\net5.0\ParesEntreCincoNumeros1065.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\bin\Debug\net5.0\ParesEntreCincoNumeros1065.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\bin\Debug\net5.0\ref\ParesEntreCincoNumeros1065.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\bin\Debug\net5.0\ParesEntreCincoNumeros1065.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ref\ParesEntreCincoNumeros1065.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesEntreCincoNumeros1065\obj\Debug\net5.0\ParesEntreCincoNumeros1065.genruntimeconfig.cache
