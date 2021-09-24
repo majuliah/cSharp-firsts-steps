@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\bin\Debug\net5.0\primeiroFor.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\bin\Debug\net5.0\primeiroFor.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\bin\Debug\net5.0\primeiroFor.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\bin\Debug\net5.0\primeiroFor.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\bin\Debug\net5.0\primeiroFor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\bin\Debug\net5.0\ref\primeiroFor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\bin\Debug\net5.0\primeiroFor.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\ref\primeiroFor.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\primeiroFor\obj\Debug\net5.0\primeiroFor.genruntimeconfig.cache
