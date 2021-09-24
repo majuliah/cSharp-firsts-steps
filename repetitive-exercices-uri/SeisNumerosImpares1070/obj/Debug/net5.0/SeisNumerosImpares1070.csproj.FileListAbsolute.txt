@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\bin\Debug\net5.0\SeisNumerosImpares1070.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\bin\Debug\net5.0\SeisNumerosImpares1070.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\bin\Debug\net5.0\SeisNumerosImpares1070.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\bin\Debug\net5.0\SeisNumerosImpares1070.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\bin\Debug\net5.0\SeisNumerosImpares1070.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\bin\Debug\net5.0\ref\SeisNumerosImpares1070.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\bin\Debug\net5.0\SeisNumerosImpares1070.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\ref\SeisNumerosImpares1070.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SeisNumerosImpares1070\obj\Debug\net5.0\SeisNumerosImpares1070.genruntimeconfig.cache
