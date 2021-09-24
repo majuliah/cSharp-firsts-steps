@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\bin\Debug\net5.0\NumerosImpares1067.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\bin\Debug\net5.0\NumerosImpares1067.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\bin\Debug\net5.0\NumerosImpares1067.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\bin\Debug\net5.0\NumerosImpares1067.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\bin\Debug\net5.0\NumerosImpares1067.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\bin\Debug\net5.0\ref\NumerosImpares1067.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\bin\Debug\net5.0\NumerosImpares1067.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\ref\NumerosImpares1067.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\NumerosImpares1067\obj\Debug\net5.0\NumerosImpares1067.genruntimeconfig.cache
