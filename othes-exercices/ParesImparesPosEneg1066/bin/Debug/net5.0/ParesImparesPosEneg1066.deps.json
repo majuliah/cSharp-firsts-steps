@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ParesImparesPosEneg1066/1.0.0": {
+        "runtime": {
+          "ParesImparesPosEneg1066.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParesImparesPosEneg1066/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

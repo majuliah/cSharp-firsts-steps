@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\bin\Debug\net5.0\ParesImparesPosEneg1066.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\bin\Debug\net5.0\ParesImparesPosEneg1066.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\bin\Debug\net5.0\ParesImparesPosEneg1066.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\bin\Debug\net5.0\ParesImparesPosEneg1066.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\bin\Debug\net5.0\ParesImparesPosEneg1066.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\bin\Debug\net5.0\ref\ParesImparesPosEneg1066.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\bin\Debug\net5.0\ParesImparesPosEneg1066.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ref\ParesImparesPosEneg1066.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\ParesImparesPosEneg1066\obj\Debug\net5.0\ParesImparesPosEneg1066.genruntimeconfig.cache
