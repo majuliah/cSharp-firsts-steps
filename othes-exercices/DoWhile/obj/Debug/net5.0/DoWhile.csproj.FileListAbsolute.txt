@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\bin\Debug\net5.0\DoWhile.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\bin\Debug\net5.0\DoWhile.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\bin\Debug\net5.0\DoWhile.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\bin\Debug\net5.0\ref\DoWhile.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\bin\Debug\net5.0\DoWhile.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\ref\DoWhile.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\othes-exercices\DoWhile\obj\Debug\net5.0\DoWhile.genruntimeconfig.cache
