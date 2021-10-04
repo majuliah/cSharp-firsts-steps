@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\bin\Debug\net5.0\SomaDeImparesCosecutivos1071.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\bin\Debug\net5.0\SomaDeImparesCosecutivos1071.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\bin\Debug\net5.0\SomaDeImparesCosecutivos1071.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\bin\Debug\net5.0\SomaDeImparesCosecutivos1071.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\bin\Debug\net5.0\SomaDeImparesCosecutivos1071.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\bin\Debug\net5.0\ref\SomaDeImparesCosecutivos1071.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\bin\Debug\net5.0\SomaDeImparesCosecutivos1071.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\ref\SomaDeImparesCosecutivos1071.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SomaDeImparesCosecutivos1071\obj\Debug\net5.0\SomaDeImparesCosecutivos1071.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\bin\Debug\net5.0\Intervalo2-1072.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\bin\Debug\net5.0\Intervalo2-1072.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\bin\Debug\net5.0\Intervalo2-1072.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\bin\Debug\net5.0\Intervalo2-1072.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\bin\Debug\net5.0\Intervalo2-1072.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\bin\Debug\net5.0\ref\Intervalo2-1072.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\bin\Debug\net5.0\Intervalo2-1072.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\ref\Intervalo2-1072.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Intervalo2-1072\obj\Debug\net5.0\Intervalo2-1072.genruntimeconfig.cache
