@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\bin\Debug\net5.0\DividindoXporY1116.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\bin\Debug\net5.0\DividindoXporY1116.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\bin\Debug\net5.0\DividindoXporY1116.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\bin\Debug\net5.0\DividindoXporY1116.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\bin\Debug\net5.0\DividindoXporY1116.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\bin\Debug\net5.0\ref\DividindoXporY1116.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\bin\Debug\net5.0\DividindoXporY1116.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\ref\DividindoXporY1116.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\DividindoXporY1116\obj\Debug\net5.0\DividindoXporY1116.genruntimeconfig.cache

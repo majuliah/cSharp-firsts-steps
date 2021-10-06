@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\bin\Debug\net5.0\Resto2-1075.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\bin\Debug\net5.0\Resto2-1075.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\bin\Debug\net5.0\Resto2-1075.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\bin\Debug\net5.0\Resto2-1075.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\bin\Debug\net5.0\Resto2-1075.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\bin\Debug\net5.0\ref\Resto2-1075.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\bin\Debug\net5.0\Resto2-1075.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\ref\Resto2-1075.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Resto2-1075\obj\Debug\net5.0\Resto2-1075.genruntimeconfig.cache
