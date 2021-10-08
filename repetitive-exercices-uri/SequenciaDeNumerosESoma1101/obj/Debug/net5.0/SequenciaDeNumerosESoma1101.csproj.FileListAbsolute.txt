@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\bin\Debug\net5.0\SequenciaDeNumerosESoma1101.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\bin\Debug\net5.0\SequenciaDeNumerosESoma1101.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\bin\Debug\net5.0\SequenciaDeNumerosESoma1101.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\bin\Debug\net5.0\SequenciaDeNumerosESoma1101.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\bin\Debug\net5.0\SequenciaDeNumerosESoma1101.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\bin\Debug\net5.0\ref\SequenciaDeNumerosESoma1101.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\bin\Debug\net5.0\SequenciaDeNumerosESoma1101.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\ref\SequenciaDeNumerosESoma1101.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaDeNumerosESoma1101\obj\Debug\net5.0\SequenciaDeNumerosESoma1101.genruntimeconfig.cache
