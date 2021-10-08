@@ -15,28 +15,36 @@ namespace SequenciaDeNumerosESoma1101
             numero1 = int.Parse(numeros[0]);
             numero2 = int.Parse(numeros[1]);
 
-            if (numero1 > numero2)
-            {
-                max = numero1;
-                min = numero2;
-            }
-            else
-            {
-                min = numero1;
-                max = numero2;
-            }
 
-            if (numero1 > 0 && numero2 > 0)
+
+            while (numero1 > 0 && numero2 > 0)
             {
-                for (int i = min; i <= max; i++)
+                if (numero1 > numero2)
                 {
-                    soma += i;
-                    Console.Write($"{i} ");
+                    max = numero1;
+                    min = numero2;
                 }
-                Console.Write($" Sum={soma}");
-                
+                else
+                {
+                    min = numero1;
+                    max = numero2;
+                }
+
+                if (numero1 > 0 && numero2 > 0)
+                {
+                    for (int i = min; i <= max; i++)
+                    {
+                        soma += i;
+                        Console.Write($"{i} ");
+                    }
+                    Console.WriteLine($" Sum={soma}");
+                }
+
+                Console.WriteLine("Continuar (0 - sai)");
+                numeros = Console.ReadLine().Split(' ');
+                numero1 = int.Parse(numeros[0]);
+                numero2 = int.Parse(numeros[1]);
             }
-            
         }
     }
 }
