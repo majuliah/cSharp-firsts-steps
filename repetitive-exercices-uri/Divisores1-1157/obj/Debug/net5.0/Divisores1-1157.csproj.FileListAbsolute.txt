@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\bin\Debug\net5.0\Divisores1-1157.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\bin\Debug\net5.0\Divisores1-1157.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\bin\Debug\net5.0\Divisores1-1157.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\bin\Debug\net5.0\Divisores1-1157.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\bin\Debug\net5.0\Divisores1-1157.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\bin\Debug\net5.0\ref\Divisores1-1157.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\bin\Debug\net5.0\Divisores1-1157.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\ref\Divisores1-1157.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Divisores1-1157\obj\Debug\net5.0\Divisores1-1157.genruntimeconfig.cache
