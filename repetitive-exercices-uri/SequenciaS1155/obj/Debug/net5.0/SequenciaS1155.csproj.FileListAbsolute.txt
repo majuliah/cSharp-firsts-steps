@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\bin\Debug\net5.0\SequenciaS1155.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\bin\Debug\net5.0\SequenciaS1155.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\bin\Debug\net5.0\SequenciaS1155.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\bin\Debug\net5.0\SequenciaS1155.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\bin\Debug\net5.0\SequenciaS1155.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\bin\Debug\net5.0\ref\SequenciaS1155.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\bin\Debug\net5.0\SequenciaS1155.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\ref\SequenciaS1155.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaS1155\obj\Debug\net5.0\SequenciaS1155.genruntimeconfig.cache
