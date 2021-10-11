@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FatorialSimples1153/1.0.0": {
+        "runtime": {
+          "FatorialSimples1153.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FatorialSimples1153/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
