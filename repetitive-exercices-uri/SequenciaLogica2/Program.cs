@@ -13,7 +13,7 @@ namespace SequenciaLogica2
             
             for (int i = 1; i <= dois; i++)
             {
-                Console.WriteLine(i);
+                Console.Write(i);
                 if (i % um == 0)
                 {
                     Console.WriteLine();
