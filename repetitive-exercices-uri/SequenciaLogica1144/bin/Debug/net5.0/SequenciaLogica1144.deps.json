@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SequenciaLogica1144/1.0.0": {
+        "runtime": {
+          "SequenciaLogica1144.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SequenciaLogica1144/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
