@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\bin\Debug\net5.0\QuadradoEAoCubo1143.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\bin\Debug\net5.0\QuadradoEAoCubo1143.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\bin\Debug\net5.0\QuadradoEAoCubo1143.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\bin\Debug\net5.0\QuadradoEAoCubo1143.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\bin\Debug\net5.0\QuadradoEAoCubo1143.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\bin\Debug\net5.0\ref\QuadradoEAoCubo1143.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\bin\Debug\net5.0\QuadradoEAoCubo1143.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\ref\QuadradoEAoCubo1143.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\QuadradoEAoCubo1143\obj\Debug\net5.0\QuadradoEAoCubo1143.genruntimeconfig.cache
