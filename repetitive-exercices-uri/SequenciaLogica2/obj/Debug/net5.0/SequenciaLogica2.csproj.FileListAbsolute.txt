@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\bin\Debug\net5.0\SequenciaLogica2.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\bin\Debug\net5.0\SequenciaLogica2.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\bin\Debug\net5.0\SequenciaLogica2.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\bin\Debug\net5.0\SequenciaLogica2.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\bin\Debug\net5.0\SequenciaLogica2.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\bin\Debug\net5.0\ref\SequenciaLogica2.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\bin\Debug\net5.0\SequenciaLogica2.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\ref\SequenciaLogica2.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\SequenciaLogica2\obj\Debug\net5.0\SequenciaLogica2.genruntimeconfig.cache
