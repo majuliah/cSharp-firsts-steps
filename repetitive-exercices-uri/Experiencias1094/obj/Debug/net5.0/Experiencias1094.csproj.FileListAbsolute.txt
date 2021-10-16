@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\bin\Debug\net5.0\Experiencias1094.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\bin\Debug\net5.0\Experiencias1094.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\bin\Debug\net5.0\Experiencias1094.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\bin\Debug\net5.0\Experiencias1094.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\bin\Debug\net5.0\Experiencias1094.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\bin\Debug\net5.0\ref\Experiencias1094.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\bin\Debug\net5.0\Experiencias1094.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\ref\Experiencias1094.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\Experiencias1094\obj\Debug\net5.0\Experiencias1094.genruntimeconfig.cache
