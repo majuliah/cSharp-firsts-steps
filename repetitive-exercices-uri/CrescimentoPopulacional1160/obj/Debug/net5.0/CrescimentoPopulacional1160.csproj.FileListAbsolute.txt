@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\bin\Debug\net5.0\CrescimentoPopulacional1160.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\bin\Debug\net5.0\CrescimentoPopulacional1160.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\bin\Debug\net5.0\CrescimentoPopulacional1160.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\bin\Debug\net5.0\CrescimentoPopulacional1160.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\bin\Debug\net5.0\CrescimentoPopulacional1160.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\bin\Debug\net5.0\ref\CrescimentoPopulacional1160.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\bin\Debug\net5.0\CrescimentoPopulacional1160.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\ref\CrescimentoPopulacional1160.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\beginning\repetitive-exercices-uri\CrescimentoPopulacional1160\obj\Debug\net5.0\CrescimentoPopulacional1160.genruntimeconfig.cache

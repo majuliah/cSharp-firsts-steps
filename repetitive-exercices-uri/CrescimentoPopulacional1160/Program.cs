@@ -16,10 +16,10 @@ namespace CrescimentoPopulacional1160
             for (int i = 0; i < testes; i++)
             {
                 infos = Console.ReadLine().Split(' ');
-                cidadeA = int.Parse(infos[0]);
-                cidadeB = int.Parse(infos[1]);
-                crescimentoA = double.Parse(infos[2], CultureInfo.InvariantCulture);
-                crescimentoB = double.Parse(infos[3], CultureInfo.InvariantCulture);
+                cidadeA = int.Parse(infos[0]); //população da cidade A
+                cidadeB = int.Parse(infos[1]); //população da cidade B
+                crescimentoA = double.Parse(infos[2], CultureInfo.InvariantCulture); //crescimento populacional de A
+                crescimentoB = double.Parse(infos[3], CultureInfo.InvariantCulture); //crescimento populacional de B
 
                 totalA = cidadeA;
                 totalB = cidadeB;
@@ -32,7 +32,7 @@ namespace CrescimentoPopulacional1160
 
                 }
 
-                if (anos >= 100)
+                if (anos > 100)
                 {
                     Console.WriteLine("Mais de um século");
                 }
