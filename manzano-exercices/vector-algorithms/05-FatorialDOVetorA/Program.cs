@@ -28,9 +28,14 @@ namespace _05_FatorialDOVetorA
             }
 
 
-            foreach (var number in vetorB)
+            foreach (var number in vetorA)
             {
-                WriteLine(number);
+                Write(number + " ");
+            }
+
+            foreach (var result in vetorB)
+            {
+                Write(result + " ");
             }
             
 
