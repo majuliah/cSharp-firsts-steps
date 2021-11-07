@@ -27,6 +27,12 @@ namespace _14_MediaMenorEmaior
                 contador += vetor[i];
             }
 
+            for (int i = 0; i < 5; i++)
+            {
+                if (vetor[i] < menor)
+                    menor = vetor[i];
+            }
+
             media = (contador / 5);
             
             WriteLine(menor.ToString("F2", CultureInfo.InvariantCulture));
