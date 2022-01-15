@@ -5,4 +5,4 @@
 * An interesting book about C# is this [one](https://livrocsharp.com.br), free for everyone 
 
 #### The progress of the firsts steps are now concluded
-<img src="https://media3.giphy.com/media/l4FAPaGGeB7D1LfIA/giphy.gif?cid=ecf05e475ik6qodsva4ipru7yzcwpfbcdstn6qgnb7fsqiyi&rid=giphy.gif&ct=g" width="200">
+<img src="https://media3.giphy.com/media/l4FAPaGGeB7D1LfIA/giphy.gif?cid=ecf05e475ik6qodsva4ipru7yzcwpfbcdstn6qgnb7fsqiyi&rid=giphy.gif&ct=g" width="400">
